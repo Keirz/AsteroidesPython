@@ -1,0 +1,2 @@
+listaAsteroides = []
+dicAsteroides = {}
